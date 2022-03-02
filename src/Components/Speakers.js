@@ -7,6 +7,11 @@ import majed from '../assets/majed.jpg';
 import shinawy from '../assets/shinawy.jpg';
 import anj from '../assets/ANJ.png';
 import kaiser from '../assets/kaiser.jpg';
+import SuleimanHani from '../assets/SuleimanHani.jpg';
+import waleed from '../assets/waleed.png';
+import dunia from '../assets/dunia.jpg';
+import muftiSY from '../assets/muftiSY.jpg';
+
 
 import { bioShadee, bioShinway, bioYoussra, bioMajed, bioJangda, bioKaiser } from '../bios';
 
@@ -31,9 +36,9 @@ class About extends React.Component {
 				>
 					{bioMajed}
 				</div>
-				<Avatar size={150} src={shadee} />
-				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Dr. Shadee Elmasry</div>
-				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Scholar in Residence at NBIC</div>
+				<Avatar size={150} src={muftiSY} />
+				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Mufti Sulaiman Yusufi</div>
+				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Scholar in Residence at Islamic Center of Mercer County</div>
 				<div
 					style={{
 						fontSize: '120%',
@@ -46,9 +51,9 @@ class About extends React.Component {
 				>
 					{bioShadee}
 				</div>
-				<Avatar size={150} src={anj} />
-				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Shaykh Abdulnasir Jangda</div>
-				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Founder and Director of Qalam Institute</div>
+				<Avatar size={150} src={waleed} />
+				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Shaykh Waleed Basyouni</div>
+				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Al-Maghrib Insitute Vice President </div>
 				<div
 					style={{
 						fontSize: '120%',
@@ -63,7 +68,7 @@ class About extends React.Component {
 				</div>
 				<Avatar size={150} src={kaiser} />
 				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Chaplain Kaiser Aslam</div>
-				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Chaplain at Rutgers University</div>
+				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Rutgers University Chaplain</div>
 				<div
 					style={{
 						fontSize: '120%',
@@ -76,9 +81,9 @@ class About extends React.Component {
 				>
 					{bioKaiser}
 				</div>
-				<Avatar size={150} src={shinawy} />
-				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Shaykh Mohammad Elshinawy</div>
-				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Religious Director at IECPA</div>
+				<Avatar size={150} src={SuleimanHani} />
+				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Imam Suleiman Hani</div>
+				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Al-Maghrib Insitute Director of Academic Affairs</div>
 				<div
 					style={{
 						fontSize: '120%',
@@ -92,9 +97,9 @@ class About extends React.Component {
 					{bioShinway}
 				</div>
 
-				<Avatar size={150} src={sisteryusra} />
-				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Youssra Kandil</div>
-				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Motivational Speaker</div>
+				<Avatar size={150} src={dunia} />
+				<div style={{ fontSize: 26, fontFamily: 'Rubik' }}>Dunia Shuaib</div>
+				<div style={{ fontSize: 18, fontFamily: 'Rubik' }}>Guided Hearts Insitute Director</div>
 				<div
 					style={{
 						fontSize: '120%',

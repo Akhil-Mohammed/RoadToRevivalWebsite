@@ -17,25 +17,19 @@ R2R invites everyone to come join our journey in discovering our true purpose of
 The one-day tazkiya conference aims to strengthen our relationship with Allah SWT and overcome our daily struggles. 
 `;
 export const bioMajed = `
-Majed is the first graduate of AlMaghrib Institute to become one of its instructors. He has completed Bachelor’s degree in Islamic Jurisprudence & Legal Theory from Al-Madinah International University. He also has a Bachelor’s degree in Mechanical Engineering from the University of Windsor and a Master’s degree in Business Administration from Wayne State University.
+Ustadh Majed is the first graduate of AlMaghrib Institute to become one of its instructors. He has completed a Bachelor’s degree in Islamic Jurisprudence & Legal Theory from Al-Madinah International University. He also has a Bachelor’s degree in Mechanical Engineering from the University of Windsor and a Master’s degree in Business Administration from Wayne State University.
 `;
 export const bioShadee = `
-Dr. Shadee Elmasry was born and raised in New Jersey. He began studying at the age of eighteen, traveling to a number of countries including Egypt, KSA, Yemen and Morocco.
-
-In addition to traditional learning, Dr. Elmasry has received has an M.A. from The George Washington University and a PhD from the University of London SOAS.
-
-
-Currently, he serves as Scholar in Residence at the New Brunswick Islamic Center in New Jersey. He is also the founder and head of Safina Society.
+Mufti Sulaiman Yusufi was born and raised in upstate New York. He began his pursuit of knowledge at the tender age of 12 memorizing the Holy Quran at Darul Uloom Madania in Buffalo, New York. He continued to study traditional Islamic sciences under various scholars. He has received ijazah in the six most authentic books of hadeeth. Upon graduation, he was given the opportunity to enter a course in Islamic law and legal verdicts (fatwa). He completed the course in two years and received formal authorization in it as well. He has taught many courses and lectured extensively on a range of topics. 
 `;
 export const bioShinway = `
-Shaykh Mohammad Elshinawy is a Research Fellow at Yaqeen University. He graduated from the Brooklyn College in English Literature. He is currently pursuing his Bachelors in Islamic Studies at Mishkah University and is serving as the Religous Director of IECPA.`;
+Imam Suleiman Hani is the Director of Academic Affairs at AlMaghrib Institute, a research scholar for Yaqeen Institute, and a resident scholar in Michigan. He began his intensive studies under numerous scholars, earning dozens of traditional religious certifications in the process. He later earned a master’s degree from the University of Jordan’s College of Shari’ah, ranking first in his class, and a master’s degree from Harvard University, where he studied religions, philosophy, political science, and psychology.`;
 export const bioYoussra = `
-Youssra Kamel Kandil, is a motivational speaker, whose goal has been to bring focus back to the beautiful pearls and wisdoms of the Quran and Sunnah.  Originally from Egypt, Ms Youssra worked in Islamic media with the world renowned preacher, Amr Khaled. Under his tutelage she took part in the weekly Islamic show, "Parables of the Quran", broadcast worldwide, geared toward supporting the young generation of Muslims around the world. Currently she is studying towards the Uwaylim Scholarship track with Sh. Shadee El Masry.
+Ustadha Dunia Shuaib is the director of Guided Hearts Institute, a psychoeducator, author, and internationally renowned speaker. Through a holistic and integrative approach she combines the Qurān and Sunnah, rich Islāmic tradition, Islāmic psychology and modern psychology to help educate and inspire Muslims to reach their greatest potential. She continually strives to provide high quality psycho-spiritual education in a way that is easily accessible
 `;
 
 export const bioJangda = `
-Shaykh AbdulNasir Jangda is the founder, director, and an instructor at Qalam. While teaching at the Qalam Seminary he travels around the country teaching classes, seminars, and giving lectures.
-He memorized the Qur’an at an early age and graduated from the rigorous ‘alim program in 2001. He attained a B.A. and M.A. in Arabic from Karachi University while completing a Masters in Islamic Studies from the University of Sindh. He taught Arabic and Islamic Studies at the University of Texas at Arlington, worked with various Islamic schools and served as the Imam at the Colleyville Masjid in the Dallas area.
+Shaykh Waleed Basyouni, PhD, is the Vice President of AlMaghrib Institute and Head of our Islamic Theology and Ethics Department. Students know him well for his sincere care for their well-being and progress in study. He graduated with a Bachelor in Islamic Sciences from Al-Imam Muhammad University (KSA), did his Master’s in Islamic Theology, World Religions and Modern Religious Sects from Al-Imam Muhammad University, and achieved a Doctorate in Theology from the Graduate Theological Foundation in Indiana.
 `;
 
 export const bioKaiser = `

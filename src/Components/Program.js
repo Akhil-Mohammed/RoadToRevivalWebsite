@@ -11,6 +11,7 @@ import majed from '../assets/majed.jpg';
 import shinawy from '../assets/shinawy.jpg';
 import anj from '../assets/ANJ.png';
 import kaiser from '../assets/kaiser.jpg';
+
 import ismael from '../assets/ismael.jpg';
 
 import qa from '../assets/QA.jpg';
@@ -20,84 +21,87 @@ import presentation from '../assets/presentation.jpg';
 import quran from '../assets/Quran.jpg';
 import registration from '../assets/registration.png';
 import conclusion from '../assets/conclusion.jpg';
+import waleed from '../assets/waleed.png';
+import dunia from '../assets/dunia.jpg';
+import muftiSY from '../assets/muftiSY.jpg';
+import SuleimanHani from '../assets/SuleimanHani.jpg';
+
+
 
 const images = [
 	registration,
 	quran,
 	kaiser,
-	shinawy,
-	presentation,
+	SuleimanHani,
 	salah,
-	sisteryusra,
-	anj,
-	salah,
-	salah,
-	ismael,
 	majed,
 	presentation,
-	shadee,
+	dunia,
+	waleed,
+	salah,
+	muftiSY,
+	salah,
 	qa,
 	conclusion,
-	salah
+	salah,
+	
 ];
 
 const times = [
-	'10:00am to 11:00am',
-	'11:15am to 11:20am',
-	'11:25am to 11:45am',
+	'10:20am to 11:20am',
+	'11:20am to 11:25am',
+	'11:30am to 11:45am',
 	'11:50am to 12:35pm',
-	'12:40pm to 12:50pm',
-	'12:55pm to 1:20pm',
-	'1:25pm to 2:10pm',
-	'2:20pm to 3:05pm',
-	'3:10pm to 5:15pm',
-	'5:15pm to 5:30pm',
-	'5:35pm to 5:45pm',
-	'5:45pm to 6:30pm',
-	'6:30pm to 6:40pm',
-	'6:45pm to 7:30pm',
-	'7:30pm to 7:55pm',
-	'7:55pm to 8:00pm',
-	'8:15pm'
+	'12:40pm to 12:55pm',
+	'1:00pm to 1:45pm',
+	'1:50pm to 2:00pm',
+	'2:05pm to 2:50pm',
+	'2:55pm to 3:40pm',
+	'3:45pm to 5:15pm',
+	'5:20pm to 6:05pm',
+	'6:10pm to 6:30pm',
+	'6:35pm to 7:05pm',
+	'7:10pm to 7:20pm',
+	'7:35pm'
+
 ];
 
 const events = [
 	'Sign In',
 	'Quran Recitation',
-	'Introduction to Purification of the Heart',
-	'What Makes a Heart Diseased',
-	'Presentation',
-	'Dhur Salah',
-	'It’s Not Too Late to Turn Back to Allah (SWT)',
-	'Balance Between the Dunya and Akhirah',
-	'Break (Asr 3:30pm)',
-	'Maghrib Salah',
-	'Quran Recitation',
-	'A Successful Transaction',
-	'Presentation',
-	'Practical Tips to Purify the Heart',
+	'Introduction to Road To Revival 2022',
+	'The Essence of Introspection & Accountability',
+	'Dhuhr Salah & Short Break',
+	'A Timeless Simulation: Navigating the Digital Era',
+	'Helping Hand Presentation',
+	'The Prophetic Paradigm of Company',
+	'Two Worlds Collide: Balancing the Dunya & Akhirah',
+	'Asr Salah & Lunch Break',
+	'Plugging into the Akhirah: Resurrected',
+	'Maghrib Salah & Short Break',
 	'Q&A',
 	'Closing Remarks',
-	'Ishaa Salah'
+	'Isha Salah'
+	
 ];
 
 const speakers = [
 	'',
-	'Mashhud Hussain',
-	'Chaplain Kaiser',
-	'Shaykh Mohammad Elshinawy',
+	'',
+	'Chaplain Kaiser Aslam',
+	'Imam Suleiman Hani',
+	'',
+	'Ustadh Majed Mahmoud',
+	'',
+	'Ustadha Dunia Suhaib',
+	'Sheykh Waleed Basyouni',
+	'',
+	'Mufti Sulaiman Yusufi',
+	'',
+	'With Mufti Sulaiman Yusufi',
 	'',
 	'',
-	'Youssra Kandil',
-	'Shaykh Abdul Nasir Jangda',
-	'Islamic Kahoot Game at 4:45pm',
 	'',
-	'Shaykh Ismael Eesa',
-	'Ustadth Majed Mahmood',
-	'',
-	'Dr. Shadee Elmasry',
-	'With Dr. Shadee Elmasry',
-	'Arshad Vohra',
 	''
 ];
 
@@ -127,7 +131,7 @@ class Program extends React.Component {
 		return (
 			<div>
 				<div className="container" style={{ height: 250 }}>
-					<img id="gif" alt="example" src={require('../assets/water7.gif')} />
+					<img id="gif" alt="example" src={require('../assets/northernlights.gif')} />
 					<div
 						className="program"
 						style={{ top: '50%', left: '50%', fontWeight: 900, fontSize: 72, color: 'white' }}

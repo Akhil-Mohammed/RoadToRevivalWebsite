@@ -16,7 +16,7 @@ class Footer extends React.Component {
 						Contact <span style={{ fontWeight: 'bold' }}>ru.msa.r2r@gmail.com </span> for any questions!
 					</div>
 
-					<div className="program" style={{ top: '60%', left: '35%' }}>
+					<div className="program" style={{ top: '60%', left: '45%' }}>
 						<a
 							href="https://www.facebook.com/Road2Revival/?eid=ARBU3VkeKgGD7zEyAqy-MgKB7Z5KvS3HvFTolwLudYQJHYfT4ZBpq1-6sIh_YjgZLI1_RQQ65ks0jxpe"
 							target="_blank"
@@ -26,13 +26,9 @@ class Footer extends React.Component {
 						</a>
 					</div>
 
-					<div className="program" style={{ top: '60%', left: '50%' }}>
-						<a href="https://twitter.com/road2revival?lang=en" target="_blank" rel="noopener noreferrer">
-							<IconFont type="icon-twitter" style={{ fontSize: '50px' }} />
-						</a>
-					</div>
+					
 
-					<div className="program" style={{ top: '60%', left: '65%' }}>
+					<div className="program" style={{ top: '60%', left: '55%' }}>
 						<a
 							href="https://www.instagram.com/road2revival/?hl=en"
 							target="_blank"

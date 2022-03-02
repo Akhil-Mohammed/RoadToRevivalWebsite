@@ -29,11 +29,7 @@ class NavBar extends React.Component {
 						</Link>
 					</Menu.Item>
 
-					<Menu.Item key="/tabling" style={{ fontWeight: 'bold' }}>
-						<Link to="/tabling">
-							<Icon type="eye" />Tabling
-						</Link>
-					</Menu.Item>
+					
 					<Menu.Item key="/program" style={{ fontWeight: 'bold' }}>
 						<Link to="/program">
 							<Icon type="schedule" />Program
@@ -43,13 +39,8 @@ class NavBar extends React.Component {
 						<Link to="/sponsors">
 							<Icon type="fund" />Sponsors
 						</Link>
-					</Menu.Item>
-					<Menu.Item key="/vendors" style={{ fontWeight: 'bold' }}>
-						<Link to="/vendors">
-							<Icon type="shop" />Vendors & Food
-						</Link>
-					</Menu.Item>
-				</Menu>
+						</Menu.Item>
+					</Menu>
 			</div>
 		);
 	}
